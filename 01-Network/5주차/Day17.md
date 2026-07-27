@@ -277,7 +277,7 @@ int range fa0/6 - 7
  switchport mode access
  switchport access vlan 14
  end
-
+w
 show vlan brief
 
 @ R1
